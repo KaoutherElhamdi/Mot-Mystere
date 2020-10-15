@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1602612263 source:c:\users\asus\documents\c++\motmystere\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"usefulFunctions.h"
+
+1602582802 c:\users\asus\documents\c++\motmystere\usefulfunctions.h
+	<vector>
+	<string>
+
+1602583381 source:c:\users\asus\documents\c++\motmystere\usefulfunctions.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<fstream>
+	"usefulFunctions.h"
+
